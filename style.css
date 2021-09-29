@@ -1,0 +1,12 @@
+body {
+    background:linear-gradient(blue, 10%, pink);
+}
+#flex {
+    display: flex;
+    flex-direction: column;
+}
+
+nav {border: 4px groove violet;
+    background: #DDA0DD;
+    padding: 10px;
+}
